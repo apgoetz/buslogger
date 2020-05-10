@@ -5,6 +5,9 @@ readme = "README.md"
 name = "buslogger"
 version = "0.1.0"
 license = "MIT"
+repository = "https://github.com/apgoetz/buslogger"
+keywords = ["embedded-hal", "i2c"]
+description = "Helper library to debug embedded-hal busses"
 
 [dependencies]
 embedded-hal = "0.2.3"
